@@ -2,7 +2,7 @@
 title: "Car Manufacturer Dataset Analysis"
 author: "Aisling Towey"
 date: "22 March 2019"
-output: rmarkdown::github_document
+output: md_document
 ---
 #########################
 ##Project Summary
@@ -36,8 +36,6 @@ if(!require(xgboost)) install.packages("xgboost")
 if(!require(skimr)) install.packages("skimr")
 if(!require(gridExtra)) install.packages("gridExtra")
 if(!require(grid)) install.packages("grid")
-if(!require(grid)) install.packages("knitr")
-library(knitr)
 library(gridExtra)
 library(grid)
 library(funModeling) 
@@ -57,7 +55,6 @@ library(factoextra)
 library(FactoMineR)
 library(xgboost)
 ```
-
 
 
 ```{r echo = FALSE, results='hide'}
