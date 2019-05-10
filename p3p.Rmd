@@ -36,6 +36,8 @@ if(!require(xgboost)) install.packages("xgboost")
 if(!require(skimr)) install.packages("skimr")
 if(!require(gridExtra)) install.packages("gridExtra")
 if(!require(grid)) install.packages("grid")
+if(!require(grid)) install.packages("knitr")
+library(knitr)
 library(gridExtra)
 library(grid)
 library(funModeling) 
@@ -54,6 +56,10 @@ library(logisticPCA)
 library(factoextra)
 library(FactoMineR)
 library(xgboost)
+```
+
+```{r}
+knit(input="p3p.rmd", output = "p3p.md")
 ```
 
 
