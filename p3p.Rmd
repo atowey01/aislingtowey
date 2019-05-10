@@ -2,7 +2,9 @@
 title: "Car Manufacturer Dataset Analysis"
 author: "Aisling Towey"
 date: "22 March 2019"
-output: md_document
+output:
+  md_document:
+    variant: markdown_github
 ---
 
 ##Project Summary
