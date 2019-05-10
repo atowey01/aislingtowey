@@ -58,9 +58,6 @@ library(FactoMineR)
 library(xgboost)
 ```
 
-```{r}
-knit(input="p3p.rmd", output = "p3p.md")
-```
 
 
 ```{r echo = FALSE, results='hide'}
