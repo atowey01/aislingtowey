@@ -4,7 +4,7 @@ author: "Aisling Towey"
 date: "22 March 2019"
 output: md_document
 ---
-#########################
+
 ##Project Summary
 The objective of this project is to carry out analysis on a car manufacturer's data to predict the time it takes to complete a check on each car before it is released from the manufacturer. The purpose of this prediction is to provide recommendations on how the time for each check can be reduced.
 
