@@ -1,8 +1,9 @@
-<h1>Aisling Towey</h1>
-<p1>Hello and welcome to my page</p1>
-<br></br>
-<p2>links attached for htmls of my code</p2>
+<h1>Introduction</h1>
+<p1>Below I have provided to links to analysis I have completed</p1>
 
-Click <a href="http://www.yahoo.com">here</a> to go to yahoo.
+<h1>R Markdown Analysis</h1>
 
-Click <a href="http://rpubs.com/atowey01/CarManufacturerHTML">here</a> to go to yahoo.
+<p1>Car Manufacturer Analysis</p1>
+<a href="http://rpubs.com/atowey01/CarManufacturerHTML">Click here</a>
+
+<h1>Python Jupiter Notebook Analysis</h1>
