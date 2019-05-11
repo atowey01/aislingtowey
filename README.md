@@ -1,6 +1,6 @@
 <h3>Overview</h3>
 Below I have included code and commentary on various analyses I have completed both in R and Python.
-
+<br/>
 <hr>
 <br/>
 <h3>R Markdown Analyses</h3>
@@ -13,6 +13,7 @@ Below I have included code and commentary on various analyses I have completed b
 <a href="http://rpubs.com/atowey01/CCTransactionAnalysis">Commentary</a></p1>
 <br/>
 <hr>
-<h3>Python Jupiter Notebook Analyses</h3>
 <br/>
+<h3>Python Jupiter Notebook Analyses</h3>
+
 
