@@ -10,7 +10,7 @@ Below I have included code and commentary on various analyses I have completed b
 <br/>
 <p1>Car Manufacturer Analysis - Regression<br/>
 <a href="https://github.com/atowey01/R-Data-Science-Projects/blob/master/Car%20Manufacturer%20Analysis.Rmd">Source Code</a><br/>
-<a href="http://rpubs.com/atowey01/CarManufacturerHTML">Commentary</a></p1>
+<a href="http://rpubs.com/atowey01/CarManufacturerAnalysis">Commentary</a></p1>
 <br/>
 <hr>
 <br/>
