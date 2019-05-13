@@ -16,5 +16,5 @@ Below I have included code and commentary on various analyses I have completed b
 <br/>
 <h3>Python Jupiter Notebook Analyses</h3>
 <p1>Credit Card Transactions Analysis - Classification<br/>
-<a href="https://github.com/atowey01/R-Data-Science-Projects/blob/master/Credit_Card_Transactions_Analysis.Rmd">Code and Commentary</a><br/>
+<a href="https://github.com/atowey01/Python-Data-Science-Projects/blob/master/Credit_Card_Transactions_Analysis.ipynb">Code and Commentary</a><br/>
 
