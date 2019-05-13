@@ -15,5 +15,6 @@ Below I have included code and commentary on various analyses I have completed b
 <hr>
 <br/>
 <h3>Python Jupiter Notebook Analyses</h3>
-
+<p1>Credit Card Transaction Analysis - Classification<br/>
+<a href="https://github.com/atowey01/Python-Data-Science-Projects/blob/master/fraud.ipynb">Code and Commentary</a><br/>
 
