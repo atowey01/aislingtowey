@@ -4,7 +4,7 @@ Below I have included code and commentary on various analyses I have completed b
 <hr>
 <br/>
 <h3>R Markdown Analyses</h3>
-<p1>Credit Card Transaction Analysis - Classification<br/>
+<p1>Credit Card Transactions Analysis - Classification<br/>
 <a href="https://github.com/atowey01/R-Data-Science-Projects/blob/master/Credit%20Card%20Transaction%20Analysis.Rmd">Source Code</a><br/>
 <a href="http://rpubs.com/atowey01/CreditCardTransactionAnalysis">Commentary</a></p1>
 <br/>
