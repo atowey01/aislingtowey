@@ -1,5 +1,5 @@
 <h3>Overview</h3>
-Below I have included code and commentary on various analyses I have completed both in R and Python.<br/>
+Below I have included links to code and commentary on analyses I have completed both in R and Python.<br/>
 
 <hr>
 <br/>
