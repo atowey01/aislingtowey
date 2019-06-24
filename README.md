@@ -14,6 +14,7 @@ Below I have included links to code and commentary on analyses I have completed 
 <a href="https://github.com/atowey01/R-Data-Science-Projects/blob/master/Credit_Card_Transactions_Analysis.Rmd">Source Code</a><br/>
 <a href="http://rpubs.com/atowey01/CreditCardTransactionsAnalysis">Commentary</a></p1>
 <br/>
+<hr>
 <p1>Car Manufacturer Analysis - Regression<br/>
 <a href="https://github.com/atowey01/R-Data-Science-Projects/blob/master/Car_Manufacturer_Analysis.Rmd">Source Code</a><br/>
 <a href="http://rpubs.com/atowey01/CarManufacturerAnalysis">Commentary</a></p1>
