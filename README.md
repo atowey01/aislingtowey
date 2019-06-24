@@ -3,7 +3,7 @@ Below I have included links to code and commentary on analyses I have completed 
 
 <hr>
 <br/>
-<h3>Python Jupiter Notebook Analyses</h3>
+<h3>Python Jupyter Notebook Analyses</h3>
 <p1>Credit Card Transactions Analysis - Classification<br/>
 <a href="https://github.com/atowey01/Python-Data-Science-Projects/blob/master/Credit_Card_Transactions_Analysis.ipynb">Code and Commentary</a><br/>
 <br/>
