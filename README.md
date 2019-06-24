@@ -13,8 +13,8 @@ Below I have included links to code and commentary on analyses I have completed 
 <p1>Credit Card Transactions Analysis - Classification<br/>
 <a href="https://github.com/atowey01/R-Data-Science-Projects/blob/master/Credit_Card_Transactions_Analysis.Rmd">Source Code</a><br/>
 <a href="http://rpubs.com/atowey01/CreditCardTransactionsAnalysis">Commentary</a></p1>
-<hr/>
-<hr>
+<br/>
+<br>
 <p1>Car Manufacturer Analysis - Regression<br/>
 <a href="https://github.com/atowey01/R-Data-Science-Projects/blob/master/Car_Manufacturer_Analysis.Rmd">Source Code</a><br/>
 <a href="http://rpubs.com/atowey01/CarManufacturerAnalysis">Commentary</a></p1>
