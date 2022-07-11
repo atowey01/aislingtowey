@@ -1,4 +1,4 @@
-<h4>A Data Scientist with 3+ years of data science experience and 2+ years management consulting experience. Most recently worked at an AI focused start-up creating text classification, anomaly detection and sentiment analysis models for customer service clients. Previously worked at Deloitte Dublin as part of the Strategy & Operations consulting team. Highly proficient in Python and SQL. Completed a MSc in Data Analytics from Queen’s University Belfast. Native English speaker with limited proficiency in Mandarin Chinese.<h4>
+<p>A Data Scientist with 3+ years of data science experience and 2+ years management consulting experience. Most recently worked at an AI focused start-up creating text classification, anomaly detection and sentiment analysis models for customer service clients. Previously worked at Deloitte Dublin as part of the Strategy & Operations consulting team. Highly proficient in Python and SQL. Completed a MSc in Data Analytics from Queen’s University Belfast. Native English speaker with limited proficiency in Mandarin Chinese.<p>
 <br/>
 
 <hr>
