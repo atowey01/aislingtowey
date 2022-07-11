@@ -4,11 +4,11 @@ Below I have included links to code and commentary on analyses I have completed 
 <hr>
 <br/>
 <h3>Python Jupyter Notebook Analyses</h3>
-<p1>Credit Card Transactions Analysis - Classification<br/>
-<a href="https://github.com/atowey01/Python-Data-Science-Projects/blob/master/Credit_Card_Transactions_Analysis.ipynb">Code and Commentary</a><br/>
-<br/>
-<p1>News Article Text Classification - NLP<br/>
-<a href="https://github.com/atowey01/Python-Data-Science-Projects/blob/master/News_Article_Text_Classification.ipynb">Code and Commentary</a><br/>
+--<p1>Credit Card Transactions Analysis - Classification<br/>--
+--<a href="https://github.com/atowey01/Python-Data-Science-Projects/blob/master/Credit_Card_Transactions_Analysis.ipynb">Code and Commentary</a><br/>--
+--<br/>--
+--<p1>News Article Text Classification - NLP<br/>--
+--<a href="https://github.com/atowey01/Python-Data-Science-Projects/blob/master/News_Article_Text_Classification.ipynb">Code and Commentary</a><br/>--
 <br/>
 <hr>
 <br/>
