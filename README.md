@@ -4,8 +4,8 @@
 <br/>
 <h3>NLP Projects</h3>
 <p1>Text Classification<br/>
-<a href="https://github.com/atowey01/NLP-Projects/blob/master/text_classification_news_articles.ipynb">Text Classification on News Articles - Random Forest (Completed in 2019 before transfer learning took off!</a><br/>
-<a href="https://github.com/atowey01/NLP-Projects/blob/master/sentiment_text_classification_imdb.ipynb">Sentiment Text Classification using BERT</a><br/>
+<p1><a href="https://github.com/atowey01/NLP-Projects/blob/master/text_classification_news_articles.ipynb">Text Classification on News Articles</a> - Random Forest model completed in 2019 before transfer learning took off!</p1><br/>
+<p1><a href="https://github.com/atowey01/NLP-Projects/blob/master/sentiment_text_classification_imdb.ipynb">Sentiment Text Classification</a> - using BERT</p1><br/>
 <br/>
 <p1>Clustering & Similarity<br/>
 <a href="https://github.com/atowey01/NLP-Projects/blob/master/clustering_and_similarity_news_headlines.ipynb">Code</a><br/>
