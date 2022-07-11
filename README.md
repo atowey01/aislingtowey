@@ -6,17 +6,19 @@
 <br/>
 <h5>Text Classification</h5>
 <ul>
-<li><p1><a href="https://github.com/atowey01/NLP-Projects/blob/master/text_classification_news_articles.ipynb">Text Classification on News Articles</a> - Random Forest model completed in 2019 before transfer learning took off!</p1></li><br/>
-<li><p1><a href="https://github.com/atowey01/NLP-Projects/blob/master/sentiment_text_classification_imdb.ipynb">Sentiment Text Classification</a> - using BERT</p1></li><br/>
-<ul/>
+<li><p1><a href="https://github.com/atowey01/NLP-Projects/blob/master/text_classification_news_articles.ipynb">Text Classification on News Articles</a> - Random forest model completed in 2019 before transfer learning took off!</p1></li>
+<li><p1><a href="https://github.com/atowey01/NLP-Projects/blob/master/sentiment_text_classification_imdb.ipynb">Sentiment Text Classification</a> - using BERT</p1></li>
+</ul>
 <br/>
-<h5>Clustering & Similarity</h5><br/>
-<a href="https://github.com/atowey01/NLP-Projects/blob/master/clustering_and_similarity_news_headlines.ipynb">Code</a><br/>
+<h5>Clustering & Similarity</h5>
+<ul>
+<li><p1><<a href="https://github.com/atowey01/NLP-Projects/blob/master/clustering_and_similarity_news_headlines.ipynb">Clustering and similarity analysis </a> - Analysis of news headlines to find common topics</p1></li>
+</ul>
 <br/>
-<p1>Ngram Analysis<br/>
+<h5>Ngram Analysis</h5>
 <a href="https://github.com/atowey01/NLP-Projects/blob/master/ngram_analysis_syrian_war_articles.ipynb">Code</a><br/>
 <br/>
-<p1>Speech Recognition Wav2Vec<br/>
+<h5>Speech Recognition Wav2Vec</h5>
 <a href="https://github.com/atowey01/NLP-Projects/blob/master/speech_recognition_wav2vec.ipynb">Code</a><br/>
 <br/>
 <hr>
