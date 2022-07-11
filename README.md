@@ -1,5 +1,8 @@
 <p>A Data Scientist with 3+ years of data science experience and 2+ years management consulting experience. Most recently worked at an AI focused start-up creating text classification, anomaly detection and sentiment analysis models for customer service clients. Previously worked at Deloitte Dublin as part of the Strategy & Operations consulting team. Highly proficient in Python and SQL. Completed a MSc in Data Analytics from Queen’s University Belfast. Native English speaker with limited proficiency in Mandarin Chinese.</p>
 <br/>
+<a href="ie.linkedin.com/in/aislingtowey/">View My LinkedIn Profile</a>
+<br/>
+<a href="https://github.com/atowey01">View My Github Profile</a>
 <hr>
 <h3>NLP Projects</h3>
 <ul>
@@ -17,19 +20,19 @@
 </ul>
 <br/>
 <hr>
-<h3>Data Cleaning and Preprocessing</h3>
+<h3>Data Cleaning and Preprocessing Notebooks</h3>
 <ul>
 <li><p1><a href="https://github.com/atowey01/Data-Cleaning-and-Preprocessing/blob/master/working_with_dates_and_times.ipynb">Working with Dates & Times</a> - A notebook to be used as a guide when working with dates, times and timezones</p1></li>
 </ul>
 <br/>
 <hr>
-<h3>Data Visualisation</h3>
+<h3>Data Visualisation Analyses</h3>
 <ul>
 <li><p1><a href="https://github.com/atowey01/Data-Visualisation/blob/master/parking_tickets_analysis_using_plots.ipynb">Parking Tickets Analysis</a> - Analysis of parking tickets handed out in New York mainly using visualisations in Matplotlib, Seaborn and Plotly</p1></li>
 </ul>
 <br/>
 <hr>
-<h3>R Markdown Analyses</h3>
+<h3>R Markdown Projects</h3>
 <ul>
 <p1><li>Credit Card Transactions Analysis - Classification Model<br/></li>
 <a href="https://github.com/atowey01/R-Data-Science-Projects/blob/master/Credit_Card_Transactions_Analysis.Rmd">Source Code</a><br/>
