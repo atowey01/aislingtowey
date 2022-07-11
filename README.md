@@ -15,6 +15,7 @@
 </ul>
 ![news_clustering_and_similarity](https://user-images.githubusercontent.com/50136999/178335534-14b55df8-357b-4200-b258-c6d0bce7b60f.png)
 <br/>
+<br/>
 <hr>
 <h3>Machine Learning Projects</h3>
 <ul>
@@ -26,7 +27,7 @@
 <ul>
 <li><p1><a href="https://github.com/atowey01/Data-Visualisation/blob/master/parking_tickets_analysis_using_plots.ipynb">Parking Tickets Analysis</a> - Analysis of parking tickets handed out in New York mainly using visualisations in Matplotlib, Seaborn and Plotly</p1></li>
 </ul>
-![ticket_visualisations](https://user-images.githubusercontent.com/50136999/178335909-b27c1783-0f39-4280-a5c1-a56ac959e6b5.png)
+![ticket_visualisations](https://user-images.githubusercontent.com/50136999/178336973-c3d98e89-53cd-40aa-bf2d-c23aa0e81b0f.png)
 <br/>
 <br/>
 <hr>
