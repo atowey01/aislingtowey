@@ -13,7 +13,7 @@
 <li><p1><a href="https://github.com/atowey01/NLP-Projects/blob/master/ngram_analysis_syrian_war_articles.ipynb">Ngram Analysis</a> - Ngram Analysis on Articles about the Syrian war to find terms commonly used</p1></li>
 <li><p1><a href="https://github.com/atowey01/NLP-Projects/blob/master/speech_recognition_wav2vec.ipynb">Speech Recognition</a> - using Wav2Vec model in HuggingFace as a quick way of transcribing speech into text</p1></li>
 </ul>
-![Screenshot 2022-07-11 at 19 28 40](https://user-images.githubusercontent.com/50136999/178333190-81135afe-46b1-41cf-b64c-8f0394ad6c98.png)
+![news_clustering_and_similarity](https://user-images.githubusercontent.com/50136999/178335534-14b55df8-357b-4200-b258-c6d0bce7b60f.png)
 <br/>
 <hr>
 <h3>Machine Learning Projects</h3>
@@ -26,7 +26,7 @@
 <ul>
 <li><p1><a href="https://github.com/atowey01/Data-Visualisation/blob/master/parking_tickets_analysis_using_plots.ipynb">Parking Tickets Analysis</a> - Analysis of parking tickets handed out in New York mainly using visualisations in Matplotlib, Seaborn and Plotly</p1></li>
 </ul>
-![ticket_visualisations](https://user-images.githubusercontent.com/50136999/178331762-3fa2ef40-f088-4f20-beb9-b8a0aa7e908d.png)
+![ticket_visualisations](https://user-images.githubusercontent.com/50136999/178335909-b27c1783-0f39-4280-a5c1-a56ac959e6b5.png)
 <br/>
 <br/>
 <hr>
