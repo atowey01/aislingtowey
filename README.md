@@ -1,4 +1,4 @@
-<p>A Data Scientist with 3+ years of data science experience and 2+ years management consulting experience. Most recently worked at an AI focused start-up creating text classification, anomaly detection and sentiment analysis models for customer service clients. Previously worked at Deloitte Dublin as part of the Strategy & Operations consulting team. Highly proficient in Python and SQL. Completed a MSc in Data Analytics from Queen’s University Belfast. Native English speaker with limited proficiency in Mandarin Chinese.</p>
+<p>A Data Scientist with 3+ years of data science experience and 2+ years management consulting experience. Most recently worked at an AI focused start-up creating text classification, anomaly detection and sentiment analysis models for customer service clients. Previously worked at Deloitte Dublin as part of the Strategy & Operations consulting team. Highly proficient in Python and SQL. Completed a MSc in Data Analytics from Queen’s University, Belfast. Native English speaker with limited proficiency in Mandarin Chinese.</p>
 <br/>
 <a href="ie.linkedin.com/in/aislingtowey/">View My LinkedIn Profile</a>
 <br/>
@@ -31,7 +31,7 @@
 <ul>
 <li><p1><a href="https://github.com/atowey01/Data-Visualisation/blob/master/parking_tickets_analysis_using_plots.ipynb">Parking Tickets Analysis</a> - Analysis of parking tickets handed out in New York mainly using visualisations in Matplotlib, Seaborn and Plotly</p1></li>
 </ul>
-<img src="https://github.com/atowey01/Data-Visualisation/blob/master/ticket_visualisations.png" alt="Ticket Visualisations">
+<img src="img/ticket_visualisations.png" alt="Ticket Visualisations">
 <br/>
 <hr>
 <h3>R Markdown Projects</h3>
