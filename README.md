@@ -1,12 +1,11 @@
 <p>A Data Scientist with 3+ years of data science experience and 2+ years management consulting experience. Most recently worked at an AI focused start-up creating text classification, anomaly detection and sentiment analysis models for customer service clients. Previously worked at Deloitte Dublin as part of the Strategy & Operations consulting team. Highly proficient in Python and SQL. Completed a MSc in Data Analytics from Queen’s University Belfast. Native English speaker with limited proficiency in Mandarin Chinese.<p>
 <br/>
-
 <hr>
 <br/>
 <h3>NLP Projects</h3>
 <p1>Text Classification<br/>
-<a href="https://github.com/atowey01/NLP-Projects/blob/master/text_classification_news_articles.ipynb">Code</a><br/>
-<a href="https://github.com/atowey01/NLP-Projects/blob/master/sentiment_text_classification_imdb.ipynb">Code</a><br/>
+<a href="https://github.com/atowey01/NLP-Projects/blob/master/text_classification_news_articles.ipynb">Text Classification on News Articles - Random Forest (Completed in 2019 before transfer learning took off!</a><br/>
+<a href="https://github.com/atowey01/NLP-Projects/blob/master/sentiment_text_classification_imdb.ipynb">Sentiment Text Classification using BERT</a><br/>
 <br/>
 <p1>Clustering & Similarity<br/>
 <a href="https://github.com/atowey01/NLP-Projects/blob/master/clustering_and_similarity_news_headlines.ipynb">Code</a><br/>
