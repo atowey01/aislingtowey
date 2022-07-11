@@ -22,7 +22,7 @@
 <br/>
 <h5>Speech Recognition Wav2Vec</h5>
 <ul>
-<li><p1><a href="https://github.com/atowey01/NLP-Projects/blob/master/speech_recognition_wav2vec.ipynb">Speech Recognition</a> - using Wav2Vec model in HuggingFace</p1></li>
+<li><p1><a href="https://github.com/atowey01/NLP-Projects/blob/master/speech_recognition_wav2vec.ipynb">Speech Recognition</a> - using Wav2Vec model in HuggingFace as a quick way of transcribing speech into text</p1></li>
 </ul>
 <br/>
 <hr>
