@@ -5,8 +5,8 @@
 <h3>NLP Projects</h3>
 <ul>
 <li><p1><a href="https://github.com/atowey01/NLP-Projects/blob/master/text_classification_news_articles.ipynb">Text Classification on News Articles</a> - Random forest model completed in 2019 before transfer learning took off!</p1></li>
-<li><p1><a href="https://github.com/atowey01/NLP-Projects/blob/master/sentiment_text_classification_imdb.ipynb">Sentiment Text Classification</a> - Using BERT through the Hugging Face Transformers package</p1></li>
-<li><p1><a href="https://github.com/atowey01/NLP-Projects/blob/master/clustering_and_similarity_news_headlines.ipynb">Clustering and Similarity Analysis </a> - Analysis of news headlines to find common news stories</p1></li>
+<li><p1><a href="https://github.com/atowey01/NLP-Projects/blob/master/sentiment_text_classification_imdb.ipynb">Sentiment Text Classification</a> - Using BERT through the Hugging Face Transformers package to predict positivity and negativity</p1></li>
+<li><p1><a href="https://github.com/atowey01/NLP-Projects/blob/master/clustering_and_similarity_news_headlines.ipynb">Clustering and Similarity Analysis </a> - Analysis of news headlines to find common news stories using HDBSCAN clustering and cosine similarity techniques</p1></li>
 <li><p1><a href="https://github.com/atowey01/NLP-Projects/blob/master/ngram_analysis_syrian_war_articles.ipynb">Ngram Analysis</a> - Ngram Analysis on Articles about the Syrian war to find terms commonly used</p1></li>
 <li><p1><a href="https://github.com/atowey01/NLP-Projects/blob/master/speech_recognition_wav2vec.ipynb">Speech Recognition</a> - using Wav2Vec model in HuggingFace as a quick way of transcribing speech into text</p1></li>
 </ul>
@@ -30,7 +30,7 @@
 <h3>Data Visualisation</h3>
 <br/>
 <ul>
-<li><p1><a href="https://github.com/atowey01/Data-Visualisation/blob/master/parking_tickets_analysis_using_plots.ipynb">Parking Tickets Analysis</a> - Analysis of parking tickets handed out in New York mainly using visualisations</p1></li>
+<li><p1><a href="https://github.com/atowey01/Data-Visualisation/blob/master/parking_tickets_analysis_using_plots.ipynb">Parking Tickets Analysis</a> - Analysis of parking tickets handed out in New York mainly using visualisations in Matplotlib, Seaborn and Plotly</p1></li>
 </ul>
 <br/>
 <hr>
