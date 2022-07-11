@@ -3,6 +3,7 @@
 <a href="ie.linkedin.com/in/aislingtowey/">View My LinkedIn Profile</a>
 <br/>
 <a href="https://github.com/atowey01">View My Github Profile</a>
+<br/>
 <hr>
 <h3>NLP Projects</h3>
 <ul>
