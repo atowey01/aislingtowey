@@ -21,18 +21,17 @@
 </ul>
 <br/>
 <hr>
-<h3>Data Cleaning and Preprocessing Notebooks</h3>
-<ul>
-<li><p1><a href="https://github.com/atowey01/Data-Cleaning-and-Preprocessing/blob/master/working_with_dates_and_times.ipynb">Working with Dates & Times</a> - A notebook to be used as a guide when working with dates, times and timezones</p1></li>
-</ul>
-<br/>
-<hr>
 <h3>Data Visualisation Analyses</h3>
 <ul>
 <li><p1><a href="https://github.com/atowey01/Data-Visualisation/blob/master/parking_tickets_analysis_using_plots.ipynb">Parking Tickets Analysis</a> - Analysis of parking tickets handed out in New York mainly using visualisations in Matplotlib, Seaborn and Plotly</p1></li>
 </ul>
-<img src="docs/assets/img/ticket_visualisations.png" alt="Ticket Visualisations">
 ![ticket_visualisations](https://user-images.githubusercontent.com/50136999/178331762-3fa2ef40-f088-4f20-beb9-b8a0aa7e908d.png)
+<br/>
+<hr>
+<h3>Data Cleaning and Preprocessing Notebooks</h3>
+<ul>
+<li><p1><a href="https://github.com/atowey01/Data-Cleaning-and-Preprocessing/blob/master/working_with_dates_and_times.ipynb">Working with Dates & Times</a> - A notebook to be used as a guide when working with dates, times and timezones</p1></li>
+</ul>
 <br/>
 <hr>
 <h3>R Markdown Projects</h3>
