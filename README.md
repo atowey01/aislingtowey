@@ -12,7 +12,7 @@
 <br/>
 <h5>Clustering & Similarity</h5>
 <ul>
-<li><p1><<a href="https://github.com/atowey01/NLP-Projects/blob/master/clustering_and_similarity_news_headlines.ipynb">Clustering and similarity analysis </a> - Analysis of news headlines to find common topics</p1></li>
+<li><p1><a href="https://github.com/atowey01/NLP-Projects/blob/master/clustering_and_similarity_news_headlines.ipynb">Clustering and Similarity Analysis </a> - Analysis of news headlines to find common topics</p1></li>
 </ul>
 <br/>
 <h5>Ngram Analysis</h5>
