@@ -48,3 +48,13 @@
 <a href="https://github.com/atowey01/R-Data-Science-Projects/blob/master/Car_Manufacturer_Analysis.Rmd">Source Code</a><br/>
 <a href="http://rpubs.com/atowey01/CarManufacturerAnalysis">Commentary</a></p1>
 </ul>
+<br/>
+<hr>
+<h3>Demo Model Prediction Flask App</h3>
+<ul>
+<p1><li>Movie Sentiment Review Classification App<br/></li>
+<a href="https://github.com/atowey01/Demo-Model-Prediction-Flask-App">App Source Code</a><br/>
+<img width="1394" alt="demo_flask_app" src="https://user-images.githubusercontent.com/50136999/179500862-3d784db2-66be-4b86-8d20-38fdfcf158b8.png">
+https://user-images.githubusercontent.com/50136999/179500875-0c37892c-7c35-430f-822f-8434946762b0.mov
+</ul>
+<ul>
