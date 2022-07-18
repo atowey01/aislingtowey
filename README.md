@@ -54,5 +54,5 @@
 <ul>
 <p1><li>Movie Sentiment Review Classification App<br/></li>
 <a href="https://github.com/atowey01/Demo-Model-Prediction-Flask-App">App Source Code</a><br/>
-<img width="1436" alt="demo_flask_app" src="https://user-images.githubusercontent.com/50136999/179501433-6d660f01-adee-4021-b66f-52851943a606.png">
+<img width="1436" alt="demo_flask_app" src="https://user-images.githubusercontent.com/50136999/179501803-bb097094-06cf-4698-b038-8cf582d65097.png">
 </ul>
