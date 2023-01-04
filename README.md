@@ -7,11 +7,11 @@
 <hr>
 <h3>NLP Projects</h3>
 <ul>
-<li><p1><a href="https://github.com/atowey01/NLP-Projects/blob/master/text_classification_news_articles.ipynb">Text Classification on News Articles</a> - Random forest model completed in 2019 before transfer learning took off!</p1></li>
-<li><p1><a href="https://github.com/atowey01/NLP-Projects/blob/master/sentiment_text_classification_imdb.ipynb">Sentiment Text Classification</a> - Using BERT through the Hugging Face Transformers package to predict positivity and negativity</p1></li>
+<li><p1><a href="https://github.com/atowey01/NLP-Projects/blob/master/sentiment_text_classification_imdb.ipynb">Sentiment Text Classification</a> - Sentiment text classification using BERT through the Hugging Face Transformers package to predict positivity and negativity</p1></li>
+<li><p1><a href="https://github.com/atowey01/NLP-Projects/blob/master/text_classification_news_articles.ipynb">Text Classification on News Articles</a> - Text classification using a random forest model, completed in 2019 before transfer learning took off!</p1></li>
 <li><p1><a href="https://github.com/atowey01/NLP-Projects/blob/master/clustering_and_similarity_news_headlines.ipynb">Clustering and Similarity Analysis </a> - Analysis of news headlines to find common news stories using HDBSCAN clustering and cosine similarity techniques</p1></li>
 <li><p1><a href="https://github.com/atowey01/NLP-Projects/blob/master/ngram_analysis_syrian_war_articles.ipynb">Ngram Analysis</a> - Ngram Analysis on Articles about the Syrian war to find terms commonly used</p1></li>
-<li><p1><a href="https://github.com/atowey01/NLP-Projects/blob/master/speech_recognition_wav2vec.ipynb">Speech Recognition</a> - using Wav2Vec model in HuggingFace as a quick way of transcribing speech into text</p1></li>
+<li><p1><a href="https://github.com/atowey01/NLP-Projects/blob/master/speech_recognition_wav2vec.ipynb">Speech Recognition</a> - Speech Recognition using Wav2Vec model in HuggingFace as a quick way of transcribing speech into text</p1></li>
 </ul>
 ![news_clustering_and_similarity](https://user-images.githubusercontent.com/50136999/178335534-14b55df8-357b-4200-b258-c6d0bce7b60f.png)
 <br/>
@@ -19,7 +19,7 @@
 <hr>
 <h3>Machine Learning Projects</h3>
 <ul>
-<li><p1><a href="https://github.com/atowey01/Machine-Learning-Projects/blob/master/random_forest_credit_card_transactions_analysis.ipynb"> Fraudulent Credit Card Transaction Detection</a> - Using a random forest model</p1></li>
+<li><p1><a href="https://github.com/atowey01/Machine-Learning-Projects/blob/master/random_forest_credit_card_transactions_analysis.ipynb"> Fraudulent Credit Card Transaction Detection</a> - Random forest model to detect fradulent credit card transactions</p1></li>
 </ul>
 <br/>
 <hr>
