@@ -39,12 +39,12 @@
 <hr>
 <h3>R Markdown Projects</h3>
 <ul>
-<p1><li>Credit Card Transactions Analysis - Classification Model<br/></li>
+<p1><li>Credit Card Transactions Analysis - Classification model<br/></li>
 <a href="https://github.com/atowey01/R-Data-Science-Projects/blob/master/Credit_Card_Transactions_Analysis.Rmd">Source Code</a><br/>
 <a href="http://rpubs.com/atowey01/CreditCardTransactionsAnalysis">Commentary</a></p1><br/>
 </ul>
 <ul>
-<p1><li>Car Manufacturer Analysis - Regression Model<br/></li>
+<p1><li>Car Manufacturer Analysis - Regression model<br/></li>
 <a href="https://github.com/atowey01/R-Data-Science-Projects/blob/master/Car_Manufacturer_Analysis.Rmd">Source Code</a><br/>
 <a href="http://rpubs.com/atowey01/CarManufacturerAnalysis">Commentary</a></p1>
 </ul>
@@ -52,6 +52,6 @@
 <hr>
 <h3>Demo Model Prediction Flask App</h3>
 <ul>
-<p1><li>Movie Sentiment Review Classification App<br/></li>
+<p1><li>Movie Sentiment Review Classification App - Created using Flask<br/></li>
 <a href="https://github.com/atowey01/Demo-Model-Prediction-Flask-App">App Source Code</a><br/>
 <img width="1436" alt="demo_flask_app" src="https://user-images.githubusercontent.com/50136999/179501803-bb097094-06cf-4698-b038-8cf582d65097.png">
