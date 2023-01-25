@@ -5,6 +5,15 @@
 <a href="https://github.com/atowey01">View My Github Profile</a>
 <br/>
 <hr>
+<h3>HW-Reviews App</h3>
+<ul>
+<p1><li>HW-Reviews App - Created using Flask<br/></li>
+<p1><li>HW-Reviews aims to analyse Hostelworld hostel reviews in more detail to gain a better understanding of a hostel before visiting and identify any inaccuracies in ratings![image](https://user-images.githubusercontent.com/50136999/214710648-859f7d09-a6fe-47b5-b2c7-0263f83b666f.png)
+<br/></li>
+<a href="https://github.com/atowey01/HW-Reviews-Flask-App">App Source Code</a><br/>
+<img width="1436" alt="hw-reviews" src="https://user-images.githubusercontent.com/50136999/179501803-bb097094-06cf-4698-b038-8cf582d65097.png">
+<br/>
+<hr>
 <h3>NLP Projects</h3>
 <ul>
 <li><p1><a href="https://github.com/atowey01/NLP-Projects/blob/master/sentiment_text_classification_imdb.ipynb">Sentiment Text Classification</a> - Sentiment text classification using BERT through the Hugging Face Transformers package to predict positivity and negativity</p1></li>
@@ -48,10 +57,3 @@
 <a href="https://github.com/atowey01/R-Data-Science-Projects/blob/master/Car_Manufacturer_Analysis.Rmd">Source Code</a><br/>
 <a href="http://rpubs.com/atowey01/CarManufacturerAnalysis">Commentary</a></p1>
 </ul>
-<br/>
-<hr>
-<h3>Demo Model Prediction Flask App</h3>
-<ul>
-<p1><li>Movie Sentiment Review Classification App - Created using Flask<br/></li>
-<a href="https://github.com/atowey01/Demo-Model-Prediction-Flask-App">App Source Code</a><br/>
-<img width="1436" alt="demo_flask_app" src="https://user-images.githubusercontent.com/50136999/179501803-bb097094-06cf-4698-b038-8cf582d65097.png">
