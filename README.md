@@ -7,8 +7,7 @@
 <hr>
 <h3>HW-Reviews App</h3>
 <ul>
-<p1>HW-Reviews aims to analyse Hostelworld reviews in more detail to gain a better understanding of a hostel before visiting and identify any inaccuracies in ratings. The app was built using Python and deployed using Flask and Heroku. Reviews were scraped from the Hostelworld website to build a BERT sentiment model achieving 85% accuracy and a random forest regression model to predict a review rating with an R2 of 0.8
-![image](https://user-images.githubusercontent.com/50136999/214710648-859f7d09-a6fe-47b5-b2c7-0263f83b666f.png)</p1>
+<p1>HW-Reviews aims to analyse Hostelworld reviews in more detail to gain a better understanding of a hostel before visiting and identify any inaccuracies in ratings. The app was built using Python and deployed using Flask and Heroku. Reviews were scraped from the Hostelworld website to build a BERT sentiment model achieving 85% accuracy and a random forest regression model to predict a review rating with an R2 of 0.8</p1>
 <br/>
 <a href="https://github.com/atowey01/HW-Reviews-Flask-App">App Source Code</a><br/>
 <img width="1436" alt="hw-reviews" src="https://user-images.githubusercontent.com/50136999/179501803-bb097094-06cf-4698-b038-8cf582d65097.png">
@@ -22,7 +21,7 @@
 <li><p1><a href="https://github.com/atowey01/NLP-Projects/blob/master/ngram_analysis_syrian_war_articles.ipynb">Ngram Analysis</a> - Ngram Analysis on Articles about the Syrian war to find terms commonly used</p1></li>
 <li><p1><a href="https://github.com/atowey01/NLP-Projects/blob/master/speech_recognition_wav2vec.ipynb">Speech Recognition</a> - Speech Recognition using Wav2Vec model in HuggingFace as a quick way of transcribing speech into text</p1></li>
 </ul>
-![image][news_clustering_and_similarity](https://user-images.githubusercontent.com/50136999/178335534-14b55df8-357b-4200-b258-c6d0bce7b60f.png)
+<img width="1436" alt="news_clustering_and_similarity" src="https://user-images.githubusercontent.com/50136999/178335534-14b55df8-357b-4200-b258-c6d0bce7b60f.png">
 <br/>
 <br/>
 <hr>
@@ -36,7 +35,7 @@
 <ul>
 <li><p1><a href="https://github.com/atowey01/Data-Visualisation/blob/master/parking_tickets_analysis_using_plots.ipynb">Parking Tickets Analysis</a> - Analysis of parking tickets handed out in New York mainly using visualisations in Matplotlib, Seaborn and Plotly</p1></li>
 </ul>
-![image][ticket_visualisations](https://user-images.githubusercontent.com/50136999/178336973-c3d98e89-53cd-40aa-bf2d-c23aa0e81b0f.png)
+<img width="1436" alt="ticket_visualisations" src="https://user-images.githubusercontent.com/50136999/178336973-c3d98e89-53cd-40aa-bf2d-c23aa0e81b0f.png">
 <br/>
 <br/>
 <hr>
