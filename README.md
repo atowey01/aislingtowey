@@ -9,7 +9,7 @@
 <p1>HW-Reviews aims to analyse Hostelworld reviews in more detail to gain a better understanding of a hostel before visiting and identify any inaccuracies in ratings. The app was built using Python and deployed using Flask and Heroku. Reviews were scraped from the Hostelworld website to build a BERT sentiment model achieving 85% accuracy and a random forest regression model to predict a review rating with an R2 of 0.8</p1>
 <br/>
 <a href="https://github.com/atowey01/HW-Reviews-Flask-App">App Source Code</a><br/>
-<img width="1280" alt="hw-reviews-website" src="https://user-images.githubusercontent.com/50136999/215903753-871e950e-acd7-43b2-b201-8a4bc0acdcff.png">
+<img width="1274" alt="HW-Reviews Website" src="https://user-images.githubusercontent.com/50136999/215904201-1a3390c4-784b-46dc-bad8-4c47ab9557a8.png">
 <br/>
 <hr>
 <h3>NLP Projects</h3>
