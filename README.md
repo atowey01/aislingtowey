@@ -1,4 +1,4 @@
-<p>A data science professional skilled in developing and implementing machine learning and NLP solutions. Experienced in communicating with clients to understand requirements both in the field of data science and management consulting with experience in Deloitte Ireland. Highly proficient in Python and SQL. Completed a MSc in Data Analytics from Queen’s University Belfast. Native English speaker with limited proficiency in Mandarin Chinese.</p>
+<p>A professional with 5+ years of experience in strategy & operations, data analytics and client management. Adept at collaborating with senior stakeholders on Deloitte strategy and operations management consulting projects. Skilled at leveraging data analysis to address business challenges in an AI-focused startup. Completed a MSc in Data Analytics from Queen’s University Belfast. Highly proficient in Excel, Python, and SQL.</p>
 <br/>
 <a href="https://ie.linkedin.com/in/aislingtowey/">View My LinkedIn Profile</a>
 <br/>
