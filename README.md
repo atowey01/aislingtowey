@@ -1,4 +1,4 @@
-<p>A professional with 5+ years of experience in strategy & operations, data analytics and client management. Adept at collaborating with senior stakeholders on Deloitte strategy and operations management consulting projects. Skilled at leveraging data analysis to address business challenges in an AI-focused startup. Completed a MSc in Data Analytics from Queen’s University Belfast. Highly proficient in Excel, Python, and SQL.</p>
+<p>A professional with 5+ years of experience in strategy & operations, data analytics and client management. Adept at collaborating with senior stakeholders on Deloitte strategy and operations management consulting projects. Skilled at leveraging data analysis to address business challenges in an AI-focused startup. Completed a MSc in Data Analytics from Queen’s University Belfast. Highly proficient in Excel, Python, and SQL. See some samples of personal data analytics projects below!</p>
 <br/>
 <a href="https://ie.linkedin.com/in/aislingtowey/">View My LinkedIn Profile</a>
 <br/>
